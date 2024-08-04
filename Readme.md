@@ -17,3 +17,4 @@
 <a href="https://www.credly.com/badges/861a1bbc-3adc-4def-9561-a25cfdb1f071/public_url">
     <img src="https://images.credly.com/size/340x340/images/65c79eea-8ab8-4688-9655-5502512df9b4/image.png" alt="NICE CX Partner Summit Certification 2024" width="150">
 </a>
+<img src="image/BadgeRSM1633360962364.png" alt="Registered Scrum Master" width="150">
